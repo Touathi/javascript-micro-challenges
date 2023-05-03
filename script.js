@@ -56,3 +56,12 @@ console.log( 'my total should be 107 =', arraysResults);
 // End of 120-Arrays function
 
 
+// Start Loops, Arrays, and Concatenation Checkpoint 
+function loopAndOthers( [array], num1) {
+let combinedArrStr = [];
+    for (let i = num1; i < array.length; i++) {
+        
+        return array[i]
+    }
+}
+console.log( loopAndOthers( [ 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqr' ], 2 ) );
